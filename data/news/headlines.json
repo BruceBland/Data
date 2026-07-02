@@ -1,0 +1,2092 @@
+[
+  {
+    "id" : "e8fa722d34313a7d",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "The Financial Times reports from public metadata that the US government has lifted a ban on Anthropic's Mythos and Fable models. The move allows the AI start-up to re-release models that had been restricted by the administration, though the article body was behind a subscription prompt.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "White House lifts ban on Anthropic models",
+    "url" : "https://www.ft.com/content/137ddb71-852f-438c-ad76-25e2dc43486b"
+  },
+  {
+    "id" : "9b40b2fd5b1968b3",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT public metadata says Nato chief Mark Rutte is making an economic case for Donald Trump to remain committed to the alliance. The visible deck says Europe's rearmament drive is supporting 195,000 US defence jobs.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Europe's rearmament drive is sustaining 195,000 US defence jobs, Nato chief says",
+    "url" : "https://www.ft.com/content/b0e09632-81b9-43ee-881e-f14712c5d7b6"
+  },
+  {
+    "id" : "bbae515a83e500ea",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT metadata says airports and airlines are warning that delays will worsen over the summer unless they can abandon new checks. The visible headline says planes are leaving half full because of EU border disruption.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Planes leaving half full in EU border chaos, says industry",
+    "url" : "https://www.ft.com/content/54ade9a4-b89e-482b-809f-c7fec11c59a0"
+  },
+  {
+    "id" : "9d002ef00aeca140",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT metadata says French shipping group CMA CGM is nearing a $1.4 billion deal for a FedEx logistics unit. The visible deck says the group wants to expand in the US and strengthen its supply-chain footprint.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "CMA CGM nears $1.4bn deal for FedEx logistics unit",
+    "url" : "https://www.ft.com/content/f4a8e4b2-5dcf-47b4-97a5-ec6a2a8a97f5"
+  },
+  {
+    "id" : "a869e974ee8b092",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT public metadata says Chinese EV makers, including BYD, are increasing their use of locally developed semiconductors. The article is positioned within the semiconductor beat and links vehicle demand to China's broader self-reliance agenda.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Chinese carmakers' hunger for chips boosts national self-reliance drive",
+    "url" : "https://www.ft.com/content/dc7b4dfb-b279-4740-ae71-862a9e267aa9"
+  },
+  {
+    "id" : "642097b540502ab0",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian outlines Australian policy changes taking effect on 1 July, including a 4.75% rise for about 2.8 million award and minimum-wage workers. It also notes payday super, expanded paid parental leave, tax cuts, anti-price-gouging measures, and scam-protection changes around sender IDs.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "1 July changes: minimum wage rises, payday super, parental leave tweaks and everything else coming for 2026-27",
+    "url" : "https://www.theguardian.com/business/2026/jul/01/1-july-changes-minimum-wage-payday-super-parental-leave-2026-27-new-financial-year"
+  },
+  {
+    "id" : "d8b05d164bd0c0",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that BT and Verizon plan to create a joint global business in a $4 billion deal. The article sits within telecoms and international business coverage, implying a strategy to combine enterprise-network capabilities and global customer reach.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "BT and Verizon to create joint global business in $4bn deal",
+    "url" : "https://www.theguardian.com/business/2026/jun/29/bt-verizon-joint-venture-deal-telecoms-international"
+  },
+  {
+    "id" : "f255979580feca04",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that bicycle maker Brompton has sold stakes to Decathlon and the Chinese backer of Labubu. The visible page frames the story around manufacturing and sales, suggesting Brompton is bringing in strategic retail and China-linked capital.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Brompton sells stakes to Decathlon and Chinese Labubu backer",
+    "url" : "https://www.theguardian.com/business/2026/jun/30/brompton-sells-stakes-decathlon-bike-maker-sales"
+  },
+  {
+    "id" : "b96f4e5e8d393c5c",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that the UK is minded to intervene in Paramount's proposed $110 billion takeover of Warner Bros Discovery. The article places the deal in a mergers and acquisitions context, with UK scrutiny adding another jurisdictional hurdle.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "UK 'minded' to intervene in Paramount's $110bn takeover of Warner Bros Discovery",
+    "url" : "https://www.theguardian.com/business/2026/jun/30/uk-intervene-paramount-takeover-warner-bros-discovery"
+  },
+  {
+    "id" : "3630d8a845daaa67",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that the UK competition watchdog plans to address Apple and Google's effective duopoly in mobile app stores. The visible metadata points to developer payments and mobile-platform competition as central issues.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "UK watchdog plans to break Apple and Google's 'effective duopoly' on mobile app stores",
+    "url" : "https://www.theguardian.com/business/2026/jun/30/uk-apple-google-mobile-app-stores-developers-payment-cma"
+  },
+  {
+    "id" : "98c05efae3c25792",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "The Wall Street Journal homepage metadata says President Trump made more than $1 billion from crypto deals as part of a wider 2025 financial windfall. The visible deck also notes licensing and legal-settlement income in his latest financial disclosure.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Trump Made More Than $1 Billion on Crypto Deals, Part of 2025 Windfall",
+    "url" : "https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f?mod=hp_lead_pos4"
+  },
+  {
+    "id" : "7013d282400dc546",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ public metadata says Trump was briefed on all-out war options in Iran but chose to continue negotiations. The homepage deck says he is comfortable if talks with Tehran move beyond an August 18 deadline for a nuclear deal.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Trump Briefed on All-Out War Options in Iran but Opts to Stick With Talks",
+    "url" : "https://www.wsj.com/world/middle-east/trump-briefed-on-all-out-war-options-in-iran-but-opts-to-stick-with-talks-98304b5b?mod=hp_lead_pos5"
+  },
+  {
+    "id" : "8b8f9af762862bff",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ metadata says the Dow closed June at a record high and that the S&P 500 and Nasdaq rose 15% and 21%, respectively, in the second quarter. The article frames the quarter's strength as difficult to repeat.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Wall Street's Best Quarter in Six Years Will Be a Hard Act to Follow",
+    "url" : "https://www.wsj.com/finance/stocks/wall-streets-best-quarter-in-six-years-will-be-a-hard-act-to-follow-6dc641d4?mod=hp_lead_pos6"
+  },
+  {
+    "id" : "3aa69ebea002672b",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ public metadata says fuel shortages are creating a political crisis for Vladimir Putin. The visible deck says Moscow may need to import gasoline and ban diesel exports as long lines form at filling stations.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Putin Faces a Political Crisis as Fuel Shortages Ripple Through Russia",
+    "url" : "https://www.wsj.com/world/russia/putin-faces-a-political-crisis-as-fuel-shortages-ripple-through-russia-8991cd9a?mod=hp_lead_pos9"
+  },
+  {
+    "id" : "8044715a714b84e6",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ metadata says Anthropic reached a deal with the Trump administration to restore access to its Fable AI model. The visible deck says the model had been shut down for two and a half weeks over security concerns, disrupting the AI industry.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Anthropic Reaches Deal With Trump Administration to Restore Access to Fable AI Model",
+    "url" : "https://www.wsj.com/tech/ai/anthropic-nears-deal-with-trump-administration-to-restore-access-to-fable-ai-model-6f4177f3?mod=hp_lead_pos10"
+  },
+  {
+    "id" : "974124ba1d132aa6",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports from homepage metadata that OCBC is rolling out AI-native banking and plans to hire 600 relationship managers. The pairing of AI tooling with human hiring suggests the bank is using automation to expand service capacity rather than simply cut headcount.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "OCBC rolls out AI-native banking, to hire 600 relationship managers in wealth push",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/ocbc-rolls-out-ai-native-banking-hire-600-relationship-managers-wealth-push?ref=home-top-stories-5"
+  },
+  {
+    "id" : "608208806506366f",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times homepage says DBS's CIO sees energy as the chokepoint for AI's next growth phase. The framing connects AI deployment to electricity supply, grid capacity, and data-centre economics.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Energy is the chokepoint for AI's next growth phase, says DBS CIO",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/energy-chokepoint-ais-next-growth-phase-says-dbs-cio?ref=home-top-stories-6"
+  },
+  {
+    "id" : "95c85aee35fa7eb8",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that Indonesia's inflation rate reached a three-month high of 3.34% in June. The homepage metadata notes core inflation at 2.76% for the month.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Indonesia's inflation rate hits three-month high of 3.34% in June",
+    "url" : "https://www.businesstimes.com.sg/international/asean/indonesias-inflation-rate-hits-three-month-high-3-34-june?ref=home-top-stories-1"
+  },
+  {
+    "id" : "768157efd821129c",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times homepage says Microsoft is reportedly planning to cut less than 2.5% of its workforce in its latest round of layoffs. The visible metadata does not provide the full article body, but the headline points to continued cost discipline at a major technology company.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Microsoft to reportedly cut under 2.5% of workforce in latest layoffs",
+    "url" : "https://www.businesstimes.com.sg/international/global/microsoft-reportedly-cut-under-2-5-workforce-latest-layoffs?ref=home-top-stories-2"
+  },
+  {
+    "id" : "2863beb5cfc11e69",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that Singapore is seeking feedback on a bill to regulate major data centres and cloud-service providers. The story sits in economy and policy coverage, indicating a formal regulatory push around critical digital infrastructure.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Singapore seeks feedback on Bill to regulate major data centres, cloud service providers",
+    "url" : "https://www.businesstimes.com.sg/singapore/economy-policy/singapore-seeks-feedback-bill-regulate-major-data-centres-cloud-service-providers?ref=home-top-stories-8"
+  },
+  {
+    "id" : "73119aca3adf3d0",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that Volkswagen is considering selling and later producing Chinese-developed models in Europe. The article says this was long considered taboo and that an initial review assignment already exists.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Volkswagen: VW erwägt Verkauf und Fertigung chinesischer Modelle in Europa",
+    "url" : "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-vw-erwaegt-verkauf-und-fertigung-chinesischer-modelle-in-europa/100234995.html"
+  },
+  {
+    "id" : "59e208475b06ccba",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that Covestro is planning major investments in China and the Persian Gulf. The homepage deck says Europe has fundamental cost disadvantages and that Covestro prefers new plants in Asia.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Covestro: Konzern plant Großinvestitionen in China und am Persischen Golf",
+    "url" : "https://www.handelsblatt.com/unternehmen/industrie/covestro-konzern-plant-grossinvestitionen-in-china-und-am-persischen-golf/100234908.html"
+  },
+  {
+    "id" : "ff18a5f8dcef8ca5",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that Asian markets were mixed at the start of the quarter. Its homepage metadata cites a weak yen, stalled talks in the Iran war, higher US Treasury yields, and signals from China as influences.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Nikkei und Kospi: Asiens Börsen notieren zum Quartalsstart uneinheitlich",
+    "url" : "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-und-kospi-asiens-boersen-notieren-zum-quartalsstart-uneinheitlich/100237065.html"
+  },
+  {
+    "id" : "18f32b66d01c703a",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that SAP chief Christian Klein is taking over central parts of technology development under a project named Fuji. The homepage metadata says SAP is reorganising product development and that Klein is responsible for some key tasks, at least temporarily.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "SAP: Chef Klein übernimmt zentrale Teile der Technologieentwicklung",
+    "url" : "https://www.handelsblatt.com/technik/it-internet/sap-chef-klein-uebernimmt-zentrale-teile-der-technologieentwicklung/100236612.html"
+  },
+  {
+    "id" : "fd412fe0aac76305",
+    "publishedAt" : "2026-07-01T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that start-ups often avoid the state as a customer despite billions in public-sector contracts. The homepage metadata cites bureaucracy as a central obstacle and says a study reviewed by Handelsblatt explains why, while also pointing to possible changes.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Digitalisierung: Warum Start-ups den Staat als Kunden meiden",
+    "url" : "https://www.handelsblatt.com/unternehmen/start-ups/digitalisierung-warum-start-ups-den-staat-als-kunden-meiden/100235905.html"
+  },
+  {
+    "id" : "d7cbd95847bc92d9",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT says investors are rotating out of the largest US platform companies after a $2.3tn value decline, while chipmakers linked to hyperscalers' AI spending have become a stronger focus. The visible summary frames the move as a broad reassessment of who benefits most from the current AI capital-spending cycle.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation",
+    "url" : "https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174"
+  },
+  {
+    "id" : "ead61a34e34f3e46",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT reports that the Japanese yen fell past Y162 to the dollar as the Federal Reserve's hawkish shift added pressure. The currency move revives concern that Japanese authorities could intervene to slow excessive volatility.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Yen weakens to 40-year low",
+    "url" : "https://www.ft.com/content/51a7198d-b00b-4e68-9c8b-1b5fbbdcf510"
+  },
+  {
+    "id" : "5d6ed535ed141801",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT says an EY employee has been charged over alleged access to Australian prime ministerial banking details, with Treasurer Jim Chalmers calling the situation deeply concerning. The case keeps professional-services data governance and privileged-access controls in the spotlight.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "EY employee charged with accessing Australian prime minister's bank details",
+    "url" : "https://www.ft.com/content/3522c311-4601-4349-95a0-e5893888e60a"
+  },
+  {
+    "id" : "2eb5b3c260c9d788",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT reports that Supermicro's Taiwan offices were raided in a chip-smuggling investigation and that the server maker's shares fell about 8% after the news. The story points to continuing enforcement risk around advanced computing supply chains.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Supermicro Taiwan offices raided in chip smuggling probe",
+    "url" : "https://www.ft.com/content/a033c2fb-6c0b-4d25-9795-a04b95964e23"
+  },
+  {
+    "id" : "8cd8f1b197dd8b8a",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT says the Supreme Court blocked President Trump's attempt to remove Federal Reserve governor Lisa Cook while allowing more presidential latitude over another regulator in a separate decision. The visible metadata frames the ruling as a central-bank independence story with market consequences.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Supreme Court blocks Trump from sacking Fed governor Cook",
+    "url" : "https://www.ft.com/content/84db4001-8c8c-4dfa-9c6f-b501c38bc2fb"
+  },
+  {
+    "id" : "1b134a266ad801ad",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that the US supreme court refused Trump's attempt to immediately remove Federal Reserve governor Lisa Cook, saying she lacked required procedural protections. The article says the ruling limits presidential authority over the central bank while other recent decisions expanded executive power over independent agencies.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "US supreme court rules Trump's firing of Lisa Cook from Fed was unconstitutional",
+    "url" : "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-trump-lisa-cook-ruling"
+  },
+  {
+    "id" : "2eac1e7cffa244b2",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian's international homepage reports that a parcel-bomb blast in Monaco severely wounded a Ukrainian oligarch, with police hunting a suspected bomber believed to have fled the principality. The visible entry provides limited detail but signals continuing security risk around high-profile cross-border business figures.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Monaco parcel bomb blast severely wounds Ukrainian oligarch",
+    "url" : "https://www.theguardian.com/international"
+  },
+  {
+    "id" : "66ecb46ee1aee1c3",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian's homepage says Chinese tycoon Guo Wengui was sentenced to 30 years in a US prison for fraud. The story adds to a broader pattern of US enforcement cases involving politically connected overseas figures and cross-border fundraising.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Chinese tycoon Guo Wengui sentenced to 30 years in US prison for fraud",
+    "url" : "https://www.theguardian.com/international"
+  },
+  {
+    "id" : "dd85b0372b481cb",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that the UK is preparing a major defence spending plan, with Russia and Iran cited as threats. The homepage also links the story to criticism that planned investment may be too little and too late.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "UK to outline major defence spending plan amid threats from Russia and Iran",
+    "url" : "https://www.theguardian.com/international"
+  },
+  {
+    "id" : "9092e95b5778e017",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian's world-news section says the EU has opened three months of talks with China over a EUR360bn trade deficit. The entry points to negotiations over trade imbalances and possible market-access demands.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "EU sets up three months of talks with China over EUR360bn trade deficit",
+    "url" : "https://www.theguardian.com/international"
+  },
+  {
+    "id" : "dba2976c80fa71e3",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ reports that US equity futures edged higher while the yen touched a 40-year low against the dollar, raising expectations of possible Japanese government intervention. Investors were also watching US job-openings and consumer-confidence data.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "U.S. Futures Edge Up, Yen Hits 40-Year Dollar Low",
+    "url" : "https://www.wsj.com/finance/investing/u-s-futures-edge-up-yen-hits-40-year-dollar-low-8f295bc6"
+  },
+  {
+    "id" : "ed32d1d67f62d857",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ says Christine Lagarde rejected the idea that the ECB's June rate increase was merely pre-emptive, arguing it was justified by the bank's forecasts. The article says the ECB expects inflation to return to target in the last quarter of 2027.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "ECB's June Rate Increase Wasn't an 'Insurance Hike,' Lagarde Says",
+    "url" : "https://www.wsj.com/pro/central-banking/ecbs-june-rate-increase-wasnt-an-insurance-hike-lagarde-says-eaab5a8b"
+  },
+  {
+    "id" : "dd506001502067e5",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ reports Shell's warning that prolonged disruption around the Strait of Hormuz could produce a rare annual contraction in LNG supply, though the company expects growth to return in 2027. The story links Middle East security directly to global gas availability.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Shell Warns Global LNG Supply Could Contract if Strait of Hormuz Disruption Continues",
+    "url" : "https://www.wsj.com/finance/commodities-futures/shell-warns-global-lng-supply-could-contract-if-strait-of-hormuz-disruption-continues-10681c7f"
+  },
+  {
+    "id" : "621f80574b1e5d2e",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ says Maersk upgraded guidance because container demand remains strong, especially in East Asia, and spot freight rates have risen. The update suggests that shipping-market tightness is again improving carriers' earnings outlooks.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Maersk Lifts Guidance on Strong Demand, Higher Freight Rates",
+    "url" : "https://www.wsj.com/business/retail/maersk-lifts-guidance-on-strong-demand-higher-freight-rates-fe667d53"
+  },
+  {
+    "id" : "41e888996030f661",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ reports that Apple supplier Luxshare Precision is testing investor interest for a $3.1bn Hong Kong listing, potentially the market's largest this year. The listing comes amid strong fundraising appetite for tech-related stocks.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Apple Supplier Luxshare Set for Hong Kong's Biggest Listing This Year",
+    "url" : "https://www.wsj.com/business/apple-supplier-luxshare-set-for-hong-kongs-biggest-listing-so-far-this-year-032391a8"
+  },
+  {
+    "id" : "8a7faafd7e1a81e0",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg's Markets page says stocks rose and oil fell on hopes for a US-Iran deal. The article body could not be opened, so this entry is based only on visible public homepage metadata.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Markets Wrap: Stocks Rise and Oil Falls on US-Iran Deal Hopes",
+    "url" : "https://www.bloomberg.com/markets"
+  },
+  {
+    "id" : "24587bdd92c4bf72",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg's Markets page highlights Richmond Fed president Tom Barkin's warning that repeated supply shocks test inflation expectations. The visible headline points to continued concern that geopolitical and trade shocks could keep policy restrictive.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Fed's Barkin Says Repeated Supply Shocks Test Inflation Anchor",
+    "url" : "https://www.bloomberg.com/markets"
+  },
+  {
+    "id" : "c949f5011ee24ced",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg's Economics page says India's BPCL is turning to spot crude because the Iran conflict disrupted term supplies. The visible metadata links Middle East tensions to Asian refinery procurement.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "BPCL Turns to Spot Crude as Iran Conflict Disrupts Term Supplies",
+    "url" : "https://www.bloomberg.com/economics"
+  },
+  {
+    "id" : "84459e071c13612",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg's Economics page describes Meta's plan for a $200bn AI data-center project in rural Louisiana, with political, cultural, and economic effects. The article body was inaccessible, so the entry relies on the visible homepage deck.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Meta Is Transforming Rural Louisiana With a $200 Billion Data Center",
+    "url" : "https://www.bloomberg.com/economics"
+  },
+  {
+    "id" : "62fcb35da2149520",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg's Markets page says retail traders can now own a slice of Kalshi amid a private-asset boom. The public headline points to growing retail access to formerly private market exposures.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Retail Traders Can Now Own Slice of Kalshi in Private-Asset Boom",
+    "url" : "https://www.bloomberg.com/markets"
+  },
+  {
+    "id" : "65728f361750d858",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that Singtel CEO pay fell 17% to S$6.8mn for FY2026, citing the Optus incident and Singapore outages. The story connects executive compensation to operational reliability and customer-impact events.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Singtel CEO's pay falls 17% to S$6.8 million in FY2026 on Optus incident and Singapore outages",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/singtel-ceos-pay-falls-17-s6-8-million-fy2026-optus-incident-and-singapore-outages?ref=home-grouped-story-1"
+  },
+  {
+    "id" : "af7a8122839b808f",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times says DBS completed a US$1bn significant risk transfer transaction, described as a first for a Singapore bank. The deal suggests Singapore banks are using more sophisticated balance-sheet and credit-risk tools.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "DBS completes US$1 billion significant risk transfer deal, a first for Singapore bank",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/dbs-completes-us1-billion-significant-risk-transfer-deal-first-singapore-bank?ref=home-top-stories-3"
+  },
+  {
+    "id" : "7f8edda67489cc78",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that Indonesia jailed Gojek founder Nadiem for 10 years and ordered US$48mn in restitution. The headline marks a major legal and governance shock around a prominent Southeast Asian technology figure.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Indonesia jails Gojek founder Nadiem for 10 years, orders US$48 million restitution",
+    "url" : "https://www.businesstimes.com.sg/international/asean/indonesia-jails-gojek-founder-nadiem-10-years-orders-us48-million-restitution?ref=home-top-stories-4"
+  },
+  {
+    "id" : "eceb31b27f61cb7e",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that Singapore household electricity tariffs will rise 17% and gas tariffs 7.1% from July to September. The change points to energy-cost pass-through for consumers and possible pressure on discretionary spending.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Electricity tariff for Singapore households to rise by 17%, gas tariff by 7.1% from July to September",
+    "url" : "https://www.businesstimes.com.sg/singapore/electricity-tariff-singapore-households-rise-17-gas-tariff-7-1-july-september?ref=home-top-stories-6"
+  },
+  {
+    "id" : "fbb0d346bbccba36",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times says the yen depreciated as much as 0.2% to 161.98 per dollar, breaching a 2024 level and marking a 40-year low. The story explains why currency weakness matters for Japan and regional markets.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Japan's yen has hit a 40-year low. Here's what you need to know",
+    "url" : "https://www.businesstimes.com.sg/international/global/japans-yen-has-hit-40-year-low-heres-what-you-need-know?ref=home-top-stories-2"
+  },
+  {
+    "id" : "4ebaaa6663671de6",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that Covestro is preparing a large MDI plant in Shanghai and studying a new plant in the United Arab Emirates. CEO Markus Steilemann points to cost disadvantages in Europe and more competitive energy and infrastructure in the Gulf.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Covestro plant Grossinvestitionen in China und am Persischen Gulf",
+    "url" : "https://www.handelsblatt.com/unternehmen/industrie/covestro-konzern-plant-grossinvestitionen-in-china-und-am-persischen-golf/100234908.html"
+  },
+  {
+    "id" : "4cb13efdecee719",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that Deutsche Telekom is advancing plans to combine more closely with T-Mobile US, with concern over Elon Musk's SpaceX strategy cited as one factor. The story says Telekom shares fell as investors assessed the implications.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Telekom forciert Plane fuer Mega-Holding - Elon Musk als Treiber",
+    "url" : "https://www.handelsblatt.com/technik/it-internet/fusion-telekom-forciert-plaene-fuer-mega-holding-elon-musk-als-treiber/100236142.html"
+  },
+  {
+    "id" : "25189915ded1daf3",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt says German coalition leaders are discussing a harder trade stance toward Beijing as concerns grow that Germany's industrial base is eroding. The article frames the issue as a difficult balance for Chancellor Merz.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Industrielle Basis erodiert - China-Schock beschaeftigt Koalitionsspitzen",
+    "url" : "https://www.handelsblatt.com/politik/deutschland/konjunktur-industrielle-basis-erodiert-china-schock-beschaeftigt-koalitionsspitzen/100236600.html"
+  },
+  {
+    "id" : "904af94bc0dde5d",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that the EU and China want results by October in new trade talks after years of tension. The EU is reportedly using the possibility of a free-trade agreement to seek concessions in several areas.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "EU und China starten Handelsgespraeche - Ergebnisse bis Oktober",
+    "url" : "https://www.handelsblatt.com/politik/international/handel-eu-und-china-starten-handelsgespraeche-ergebnisse-bis-oktober/100235305.html"
+  },
+  {
+    "id" : "434562ae8bcbae3f",
+    "publishedAt" : "2026-06-30T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that China's PMI rose unexpectedly in June as exports supported the economy, while trade conflicts and geopolitical risks still make the rebound volatile. The story keeps the export/domestic-demand split at the center of the China outlook.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Exportboom treibt Chinas Wirtschaft im Juni an",
+    "url" : "https://www.handelsblatt.com/politik/international/china-exportboom-treibt-wirtschaft-im-juni-an/100236583.html"
+  },
+  {
+    "id" : "dde98961b21bf26e",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "Financial Times leads with a report that AI-driven data-centre demand has helped trigger a record dealmaking wave in the US power sector. The visible homepage framing says companies are pursuing energy infrastructure for data centres, showing how AI is no longer only a software or chip story.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "AI fuels record $200bn M&A boom in US power sector",
+    "url" : "https://www.ft.com/content/6e15876d-1882-45e2-a13c-16a1327079d7"
+  },
+  {
+    "id" : "cf6dd04e9af262ba",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT reports that the US says it has reached a deal with Iran to halt strikes and restart talks, though Tehran had not confirmed the arrangement in the visible homepage text. The story is framed around the fragile Strait of Hormuz truce and the risk that tit-for-tat attacks could resume.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "US says it has agreed deal with Iran to halt strikes and resume talks",
+    "url" : "https://www.ft.com/content/10f1d990-50f2-4b05-b2dd-19d4b02c4a8a"
+  },
+  {
+    "id" : "ba727269f431935",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT says British American Tobacco is cutting about 9,000 jobs, with the visible deck saying the maker of Dunhill cigarettes will outsource and remove roughly one in five roles. The story points to structural pressure in tobacco as regulation, health trends, and the shift toward reduced-risk products change the business model.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "British American Tobacco slashes 9,000 jobs",
+    "url" : "https://www.ft.com/content/f457d335-eb92-4e1e-8d33-04e5ed2fca8f"
+  },
+  {
+    "id" : "952277f246e02d98",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT reports that freight shipping costs have surged as companies move goods early to get ahead of expected US tariffs. The visible headline says rates have reached their highest level since the 2024 Red Sea crisis, tying trade policy directly to logistics pressure.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Freight shipping costs surge as companies race to beat new Trump tariffs",
+    "url" : "https://www.ft.com/content/8bf7cfa4-5412-41d3-b84e-e89f84265fe8"
+  },
+  {
+    "id" : "fa25e0dda5fc2bb5",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT highlights a risk that Europe enters winter with gas storage at a 15-year low because refilling is lagging. The visible metadata says EU storage facilities are not being replenished fast enough, with a Spanish import hub urging a delay to the Russian gas ban.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Europe risks starting winter with gas stocks at 15-year low",
+    "url" : "https://www.ft.com/content/06304ad6-3841-4d5a-933a-6e750f536eaf"
+  },
+  {
+    "id" : "9d1d59ecca6e490f",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian business page leads with Trump threatening a 100% tariff on European countries that impose a digital tax. The story places digital services taxation inside a broader trade confrontation between Washington and Europe.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Trump threatens 100% tariff on European countries that impose digital tax",
+    "url" : "https://www.theguardian.com/business"
+  },
+  {
+    "id" : "52eac5fa5cec163b",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that oil prices have fallen back to pre-Iran war levels as more tankers leave the Strait of Hormuz. The visible framing suggests markets are pricing some easing in immediate disruption risk.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
+    "url" : "https://www.theguardian.com/business"
+  },
+  {
+    "id" : "2be444b8109126e3",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian technology page frames under-16 social-media restrictions as a global regulatory movement following Australia's crackdown. The visible deck says more countries are moving to rein in children's social-media use, comparing the political pressure to tobacco-style regulation.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Social media bans go global: big tech faces a reckoning after Australia's crackdown",
+    "url" : "https://www.theguardian.com/technology"
+  },
+  {
+    "id" : "84faea35469eeda7",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that OpenAI staggered an AI model release after a Trump administration request. The visible technology-page metadata ties the story to the growing connection between AI deployment and government oversight.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "OpenAI staggers AI model release after Trump administration request",
+    "url" : "https://www.theguardian.com/technology"
+  },
+  {
+    "id" : "71097a808ab434cc",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian's homepage features an interview with Erin Brockovich about opposition to AI data centres. The visible framing places environmental and community resistance alongside the massive capital behind AI infrastructure.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "'We're up against forces that have all the money in the world': Erin Brockovich on her battle against AI datacentres",
+    "url" : "https://www.theguardian.com/international"
+  },
+  {
+    "id" : "47444cfb495c25fd",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ reports that the US and Iran agreed to halt days of fighting around the Strait of Hormuz and resume peace talks. The visible story says the violence had disrupted efforts to settle the conflict and slowed recovery in a waterway that carries a large share of global crude.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "U.S. and Iran Agree to Halt Days of Fighting Over Strait",
+    "url" : "https://www.wsj.com/world/middle-east/iran-asserts-sole-control-of-hormuz-warns-challenges-will-bring-more-violence-5abea3c7"
+  },
+  {
+    "id" : "45d8b42fe77cb437",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ says a Justice Department probe into baby formula produced substantial evidence, but senior officials chose a civil settlement rather than criminal charges. The visible deck identifies Abbott Laboratories as the company involved.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "The Baby Formula Probe Produced a Pile of Evidence. Then the DOJ Dropped the Case.",
+    "url" : "https://www.wsj.com/us-news/law/the-baby-formula-probe-produced-a-pile-of-evidence-then-the-doj-dropped-the-case-cdc68716"
+  },
+  {
+    "id" : "bdea10be88b32626",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ reports on a fight between major US rare-earths companies as America tries to reduce reliance on China. The visible deck frames the story as an illustration of the stakes behind loosening China's grip on the sector.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "The Cutthroat Battle to Become America's Rare-Earth Champion",
+    "url" : "https://www.wsj.com/business/the-cutthroat-battle-to-become-americas-rare-earth-champion-31a2916f"
+  },
+  {
+    "id" : "e6314a9e1bbddf88",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ's artificial-intelligence section says Chinese AI has matched Anthropic in cybersecurity, with visible metadata saying US restrictions on top AI are raising concern that Washington is handing Beijing an advantage. The exact article body was not accessible in this run, so this summary is based on the homepage metadata.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "China Has Matched Anthropic in Cybersecurity, Resetting AI Race",
+    "url" : "https://www.wsj.com/"
+  },
+  {
+    "id" : "be30fe7c60fd91a9",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ's politics section says US trade representative Jamieson Greer is rebuilding Trump's global tariffs after the Supreme Court ruled that most earlier levies were illegal. The story is visible from homepage metadata rather than a full accessible article body.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "How Jamieson Greer Took Over Trump's Trade Agenda",
+    "url" : "https://www.wsj.com/"
+  },
+  {
+    "id" : "6aaaac24bcf01f9",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "South China Morning Post",
+    "summary" : "SCMP reports that Citic Securities claimed the top Asia-Pacific investment banking spot with US$1.45 billion in fees. The visible business-page metadata places Chinese financial institutions at the centre of regional dealmaking.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Citic Securities tops Asia-Pacific investment banking ranks with US$1.45 billion in fees",
+    "url" : "https://www.scmp.com/business/banking-finance/article/3338888/citic-securities-tops-asia-pacific-investment-banking-ranks-us145-billion-fees?module=top_story&pgtype=section"
+  },
+  {
+    "id" : "b44bb32d9971fdb1",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "South China Morning Post",
+    "summary" : "SCMP says Tesla's China sales hit a monthly record as EV buyers moved ahead of a tax increase. The visible headline indicates a policy-driven demand pull-forward in the world's most competitive EV market.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Tesla's China sales hit monthly record as EV buyers race to beat tax increase",
+    "url" : "https://www.scmp.com/business/china-business/article/3338842/teslas-china-sales-hit-monthly-record-ev-buyers-race-beat-tax-increase?module=top_story&pgtype=section"
+  },
+  {
+    "id" : "babb4144beeabdd4",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "South China Morning Post",
+    "summary" : "SCMP reports Hong Kong stocks reached a seven-week high as investors rotated into Chinese technology names. The visible deck says investors are also betting China will increase policy support for economic growth in 2026.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Hong Kong stocks hit 7-week high as investors diversify into Chinese tech names",
+    "url" : "https://www.scmp.com/business/china-business/article/3338843/hong-kong-stocks-hit-7-week-high-investors-rotate-chinese-tech-names?module=top_story&pgtype=section"
+  },
+  {
+    "id" : "a0f61107bc265c93",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "South China Morning Post",
+    "summary" : "SCMP reports an investor view that China's robotics sector may need five years to reach its equivalent of the EV market's breakthrough. The visible metadata says the sector raised more than US$8.15 billion in 2025, up more than 170% from the prior year.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "China's robotics sector will need 5 years to reach its 'EV moment', MetaX investor says",
+    "url" : "https://www.scmp.com/news/china-future-tech/robotics/article/3338734/chinas-robotics-sector-will-need-5-years-reach-its-ev-moment-says-metax-investor?module=top_story&pgtype=section"
+  },
+  {
+    "id" : "3747930ac4969f08",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "South China Morning Post",
+    "summary" : "SCMP says Chinese quant fund Ubiquant has launched code-focused AI systems that it claims rival leading US models while using fewer parameters. The story places financial-technology talent inside China's broader AI race.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Another Chinese quant fund joins DeepSeek in AI race with model rivalling GPT-5.1, Claude",
+    "url" : "https://www.scmp.com/tech/big-tech/article/3338794/another-chinese-quant-fund-joins-deepseek-ai-race-model-rivalling-gpt-51-claude?module=top_story&pgtype=section"
+  },
+  {
+    "id" : "5102d8406c9c9936",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that Singapore Airlines and Air China signed an MOU to establish a joint venture covering route coordination, joint fare products, marketing, and revenue sharing. The partnership is subject to regulatory approvals and extends existing code-share arrangements.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "SIA inks joint venture pact with Air China to enhance route coordination, revenue sharing",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/transport-logistics/sia-inks-joint-venture-pact-air-china-enhance-route-coordination-revenue-sharing"
+  },
+  {
+    "id" : "bf1cab3ac796b8cf",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times says BT and Verizon are creating a US$4 billion international joint venture with a CEO-designate already appointed. The visible article metadata frames the deal as a major telco and enterprise-connectivity move.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "BT, Verizon join forces to create US$4 billion international joint venture",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/bt-verizon-join-forces-create-us4-billion-international-joint-venture"
+  },
+  {
+    "id" : "92498d39a4f4c2b3",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that South Korea unveiled a technology plan led by Samsung and SK Hynix investment. The visible metadata says the country aims to double DRAM production capacity in five years.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "South Korea unveils ambitious tech plan as Samsung and SK Hynix lead mega investments",
+    "url" : "https://www.businesstimes.com.sg/international/south-korea-unveils-ambitious-tech-plan-samsung-and-sk-hynix-lead-mega-investments"
+  },
+  {
+    "id" : "87fe6df02f1d6061",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that Toyota posted another monthly global sales decline, with global sales including Daihatsu down 7.4% year on year in May and production down 5.8%. The article links the pressure to Middle East disruptions and competition in China.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Toyota sales drop again in May as Iran conflict hits production",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/toyota-sales-drop-again-may-iran-conflict-hits-production"
+  },
+  {
+    "id" : "6081332253df8353",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that Chinese self-driving technology firm Momenta launched its Hong Kong IPO, seeking up to HK$5.89 billion. The company plans to use proceeds for R&D, AI computing power, data storage, engineering, and robotaxi rollout.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "GIC-backed Momenta kicks off Hong Kong IPO, targets up to HK$5.89 billion",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/transport-logistics/gic-backed-momenta-kicks-hong-kong-ipo-targets-hk5-89-billion"
+  },
+  {
+    "id" : "7c01f8e4fcb4ac0",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt leads with a report that German industry is planning more relocation of jobs and investment abroad. The visible homepage metadata says up to 100,000 jobs may be at risk and that four world regions could benefit from the shift.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Deutschlands Industrie plant die Abwanderung",
+    "url" : "https://www.handelsblatt.com/"
+  },
+  {
+    "id" : "64add8743b9e9864",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that the European Investment Bank is granting Airbus a record EUR3 billion loan. The visible metadata says the development bank wants to strengthen European technological autonomy.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "EIB gewährt Airbus Rekordkredit über drei Milliarden Euro",
+    "url" : "https://www.handelsblatt.com/"
+  },
+  {
+    "id" : "5dce7ef41148a803",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt says Volkswagen is reportedly ending an autonomous-driving alliance with Bosch because the technology is considered uncompetitive internally. The visible metadata says about EUR1.5 billion has already been invested in the project.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "VW beendet offenbar Allianz mit Bosch für autonomes Fahren",
+    "url" : "https://www.handelsblatt.com/"
+  },
+  {
+    "id" : "5ec04ba5c56a2063",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt highlights a commentary on Apple's price increases, saying they are a preview of broader technology-sector pressures. The visible homepage text ties the increases to higher costs for AI data centres and memory chips.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Apples Preisanstieg um bis zu 58 Prozent ist nur ein Vorgeschmack",
+    "url" : "https://www.handelsblatt.com/"
+  },
+  {
+    "id" : "cec6fa1be354eb7a",
+    "publishedAt" : "2026-06-29T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt's homepage ticker reports that lending to companies in the euro area is picking up. The visible item sits alongside market coverage of DAX, oil, currencies, and central-bank-sensitive financial conditions.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Kreditvergabe an Firmen im Euroraum zieht an",
+    "url" : "https://www.handelsblatt.com/"
+  },
+  {
+    "id" : "3730692ac109b371",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "Financial Times highlights how Chinese investment in Peruvian infrastructure is reshaping trade links across Latin America. The story presents Peru as a logistics and strategic foothold for Beijing at a time when the US and China are competing for influence over commodities, ports, and supply chains.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "How Peru became China's gateway to Latin America",
+    "url" : "https://www.ft.com/content/94e28ffe-598a-47b8-af8f-6678ac8e9fe2"
+  },
+  {
+    "id" : "84e5b13cc58e667a",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT reports rising concern that fast growth in India's private credit market is creating bubble-like conditions. The visible framing points to a rush of lenders and investors into a market where demand for non-bank capital is strong but underwriting discipline can weaken quickly.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "India's private credit stampede stokes bubble fears",
+    "url" : "https://www.ft.com/content/66d7f44d-7ef9-45d5-8b55-59fcaff9721c"
+  },
+  {
+    "id" : "e37c7e6f52b2b4cd",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT says US-style shale techniques are being applied in the United Arab Emirates, marking a notable transfer of North American drilling expertise to the Gulf. The story points to energy producers looking for new supply options even as global oil demand expectations remain contested.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "US shale oil and gas pioneer fracking begins in the United Arab Emirates",
+    "url" : "https://www.ft.com/content/c4fbbe43-440b-4c68-b7a9-3928eadc80d4"
+  },
+  {
+    "id" : "2bc228efa2e305bf",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT's visible coverage frames North Korean leadership consolidation as a succession and geopolitical-risk issue. The story matters for companies because a less predictable North Korea can raise security risk around South Korea, Japan, shipping lanes, and defense procurement.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Kim Jong Un's power grab complicates North Korea succession plans",
+    "url" : "https://www.ft.com/content/6ce5f5e5-24c2-4392-876c-bdca15e94a09"
+  },
+  {
+    "id" : "e7c6e5e88ac63516",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT reports that Chinese AI companies are increasing spending as they try to close the gap with US competitors. The story fits a wider pattern of AI investment shifting from model launches to compute, chips, talent, and commercialization.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Chinese AI groups spend big to gain an edge over US rivals",
+    "url" : "https://www.ft.com/content/97b3ef84-6e11-4581-ad5f-c0790295f94c"
+  },
+  {
+    "id" : "3996719f8f9838c",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that technology companies are facing a harder public fight as governments consider or implement social-media age restrictions. The visible framing is that platforms are increasingly on the defensive against child-safety concerns and regulatory pressure.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "They pose a serious threat: tech firms are losing the public in the race to thwart social media age bans",
+    "url" : "https://www.theguardian.com/technology"
+  },
+  {
+    "id" : "8c3ef3693ef58254",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian highlights UK farmer concerns that post-Brexit trade deals are pressuring domestic food production. The coverage points to a gap between political promises and the competitive reality facing producers exposed to cheaper imports.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "British food will disappear: UK farmers warn of impacts from trade deal after Brexit promises broken",
+    "url" : "https://www.theguardian.com/business"
+  },
+  {
+    "id" : "454c3d841c680741",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that ceasefire talks between Israel and Iran-linked actors are being treated with caution. The visible framing is that diplomatic movement has not removed the underlying mistrust or the risk of renewed conflict.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Israel-Iran ceasefire talks are welcome but there is little faith it will hold",
+    "url" : "https://www.theguardian.com/world/2026/jun/27/israel-iran-ceasefire-talks-hamas-gaza"
+  },
+  {
+    "id" : "421c13624eb566b3",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "Guardian political and business coverage points to continuing debate over how far the UK can rebuild trade links with Europe. Even where new agreements reduce friction, businesses still face rules-of-origin checks, regulatory divergence, labor constraints, and uncertain political support.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "EU and UK trade pact resets post-Brexit relations but leaves business pressure unresolved",
+    "url" : "https://www.theguardian.com/politics"
+  },
+  {
+    "id" : "f1c5e7e0bb34c360",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian's business commentary frames AI as a market theme that may have more momentum if companies keep adopting the technology. The key issue is whether productivity gains, software spending, and infrastructure demand can justify current expectations.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "The AI bubble has further to run if markets are right about corporate adoption",
+    "url" : "https://www.theguardian.com/business"
+  },
+  {
+    "id" : "890430189114eeef",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ reports that Starlink's rapid growth is drawing pushback from satellite rivals. Competitors appear concerned about market power, spectrum access, orbital congestion, and the speed at which SpaceX can scale broadband service.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Musk's Starlink is booming. Satellite competitors are calling foul.",
+    "url" : "https://www.wsj.com/business/telecom/musks-starlink-is-booming-satellite-competitors-are-calling-foul-3c83fdfe"
+  },
+  {
+    "id" : "1d6ca37a3695b078",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ says executives are adapting to tariff policy by repositioning supply chains, pricing, and domestic investment. The visible headline suggests some companies see tariffs not only as a cost but also as a competitive shield or bargaining tool.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "How savvy CEOs are trying to cash in on Trump's tariff wall",
+    "url" : "https://www.wsj.com/business/how-savvy-ceos-are-trying-to-cash-in-on-trumps-tariff-wall-1f7fd121"
+  },
+  {
+    "id" : "9e51d5aa19c28a7",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ frames an AI-related deal as important to the future of US-China competition. The visible metadata points to chips, artificial intelligence, and strategic technology controls as the core issue.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "The AI deal that could decide the future of US-China rivalry",
+    "url" : "https://www.wsj.com/world/china/china-artificial-intelligence-chips-us-3c1fb30b"
+  },
+  {
+    "id" : "21bb03954d0239c9",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ reports that investors are concerned about AI-stock overheating even as the broader market continues to reward the theme. The visible framing suggests valuation warnings have not yet outweighed momentum and earnings expectations.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Investors worry AI stocks are overheating. The market may not care.",
+    "url" : "https://www.wsj.com/finance/stocks/investors-worry-ai-stocks-are-overheating-the-market-may-not-care-3b4d0a2e"
+  },
+  {
+    "id" : "dc8ab390e596db15",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ reports on succession planning at Armani after Giorgio Armani, with the family and business partner Pantaleo Dell'Orco guiding the fashion house's next phase. The story is about control, continuity, and brand stewardship in luxury.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Armani family and partner Dell'Orco to steer future of Italian fashion brand",
+    "url" : "https://www.wsj.com/business/retail/armani-family-and-partner-dellorco-to-steer-future-of-italian-fashion-brand-40c8b0d5"
+  },
+  {
+    "id" : "61545ad36f8beef2",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg reports that equities reached another record even as investors continued to watch tariff risks. The visible markets framing suggests that momentum, earnings expectations, and liquidity are still strong enough to offset policy uncertainty for now.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Stocks score another record high with tariff wall of worry: markets wrap",
+    "url" : "https://www.bloomberg.com/news/articles/2026-06-28/stocks-score-another-record-high-with-tariff-wall-of-worry-markets-wrap"
+  },
+  {
+    "id" : "b8ee024c105f0ffc",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg says Middle East countries are reopening airspace as the Iran-related ceasefire holds. That signals a partial normalization of regional travel and logistics after conflict risk disrupted aviation planning.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Middle East nations reopen airspace as ceasefire with Iran holds",
+    "url" : "https://www.bloomberg.com/news/articles/2026-06-28/middle-east-nations-reopen-airspace-as-ceasefire-with-iran-holds"
+  },
+  {
+    "id" : "4b746f08e4f640a8",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg reports that the legal fight around Chevron's planned Hess acquisition is entering a final stretch after setbacks. The deal is strategically important because Hess brings exposure to Guyana, one of the fastest-growing oil provinces.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Chevron's $53 billion Hess deal trial heads to final stretch after setbacks",
+    "url" : "https://www.bloomberg.com/news/articles/2026-06-28/chevron-s-53-billion-hess-deal-trial-heads-to-final-stretch-after-setbacks"
+  },
+  {
+    "id" : "14d6b8346cb95c49",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg frames the Netherlands as a pressure point in AI trade tensions because Dutch technology is central to advanced chipmaking. The story points to ASML and related export controls as a key channel in US-China competition.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "AI trade tensions put the Netherlands on the hot seat",
+    "url" : "https://www.bloomberg.com/news/articles/2026-06-27/ai-trade-tensions-put-the-netherlands-on-the-hot-seat"
+  },
+  {
+    "id" : "72ef2e92d45322de",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg reports on the paradox that AI tools can increase work rather than reduce it. The visible framing suggests adoption can create more review, coordination, output expectations, and system-management tasks.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "It's not your imagination: AI really is making you work more",
+    "url" : "https://www.bloomberg.com/news/articles/2026-06-28/it-s-not-your-imagination-ai-really-is-making-you-work-more"
+  },
+  {
+    "id" : "e0a6dbb358da79d1",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that Malaysia's Seven Seas raised US$30 million in Series B funding led by Japan's Cool Japan Fund. The deal indicates continued cross-border investor interest in Southeast Asian consumer, media, or platform businesses with regional scaling potential.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Malaysia's Seven Seas raises US$30 million Series B led by Japan's Cool Japan Fund",
+    "url" : "https://www.businesstimes.com.sg"
+  },
+  {
+    "id" : "46b02e66be815bf5",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times' homepage highlights the challenge facing Chinese electric-vehicle makers as domestic growth cools. The story points to the need for credibility, quality, after-sales support, and brand trust as price competition intensifies.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Chinese EV makers must now win consumer trust as their home market slows",
+    "url" : "https://www.businesstimes.com.sg"
+  },
+  {
+    "id" : "bf0c294e3de1325d",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that data centers could eventually consume 9 to 15 percent of Singapore's electricity. The visible headline captures the infrastructure constraint created by AI, cloud computing, and digital services in a land- and power-limited market.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Singapore data centres to eventually use 9 to 15 per cent of the country's electricity",
+    "url" : "https://www.businesstimes.com.sg"
+  },
+  {
+    "id" : "49375e461b486200",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that Julius Baer lifted its China growth target to 4.8 percent, citing stimulus and a tariff truce. The visible framing suggests wealth managers and macro strategists are reassessing near-term Chinese demand.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Julius Baer raises China growth target to 4.8 per cent on stimulus, tariff truce",
+    "url" : "https://www.businesstimes.com.sg"
+  },
+  {
+    "id" : "584c8b077d7659c1",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times says Singapore shares fell as a technology sell-off weighed on the market, leaving the index down 1.3 percent for the week. The story reflects how regional markets remain sensitive to global technology positioning.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Tech sell-off drags Singapore shares lower as index ends week down 1.3 per cent",
+    "url" : "https://www.businesstimes.com.sg"
+  },
+  {
+    "id" : "1fa1d225a1f48c0c",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that the Middle East conflict's latest phase has pushed oil lower and supported equity markets. The visible framing suggests investors are treating reduced immediate escalation risk as a positive for inflation, transport costs, and risk appetite.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Middle East conflict depresses oil price and gives stock exchanges a tailwind",
+    "url" : "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/irankrieg-nahost-konflikt-drueckt-oelpreis-und-gibt-boersen-rueckenwind-/100137061.html"
+  },
+  {
+    "id" : "50f789f627ff4388",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt says the Bank for International Settlements is warning about AI-linked equities and elevated public debt. The story links two systemic risks: concentrated technology valuations and fiscal pressures in major economies.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Bank for International Settlements warns of AI stocks and high government debt",
+    "url" : "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-biz-warnt-vor-ki-aktien-und-hoher-staatsverschuldung-/100137595.html"
+  },
+  {
+    "id" : "b4d0b57f78b801c1",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt frames Apple as caught between rising cost pressure and limited pricing flexibility. The visible headline points to a margin problem if consumers resist higher device prices while supply-chain and tariff costs rise.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Apple needs higher prices but cannot raise them",
+    "url" : "https://www.handelsblatt.com/technik/it-internet/apple-warum-apple-die-preise-erhoehen-muss-es-aber-nicht-kann/100137400.html"
+  },
+  {
+    "id" : "8d02a682a1a98c40",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that China is apparently unwilling to offer concessions in an electric-vehicle customs dispute. The story points to continued trade friction between China and Europe over EV subsidies, tariffs, and market access.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "China offers no concessions in electric-car customs dispute",
+    "url" : "https://www.handelsblatt.com/politik/international/zoelle-china-offenbar-nicht-zu-zugestaendnissen-im-e-auto-zollstreit-bereit/100137584.html"
+  },
+  {
+    "id" : "64eca9d9d307e0b9",
+    "publishedAt" : "2026-06-28T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt highlights questions over who could succeed Oliver Blume as Porsche chief after dissent around supervisory-board votes. The story frames governance and leadership credibility as key issues for a premium automaker under pressure.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Porsche succession debate sharpens after supervisory-board dissent",
+    "url" : "https://www.handelsblatt.com/unternehmen/industrie/porsche-wer-kann-oliver-blume-als-porsche-chef-nachfolgen/100137544.html"
+  },
+  {
+    "id" : "77ec74dd93a122c9",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "The Financial Times reports that China is defining hard limits in its trade negotiations with the United States. The visible metadata points to a bargaining position that treats strategic sectors and sovereignty questions as non-negotiable, even as both sides seek to avoid another full-scale tariff shock.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "China has 'ironclad' red lines in US trade truce",
+    "url" : "https://www.ft.com/content/f1574015-1bc5-45e3-bb2b-cf95b7601089"
+  },
+  {
+    "id" : "99e4713aed34092b",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "US technology companies are pressing the administration to avoid broad export restrictions on AI chips. The visible public summary indicates concern that overly wide controls could limit sales, weaken overseas customer relationships, and push buyers toward non-US alternatives.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "US companies urge Trump to narrow AI chip export restrictions",
+    "url" : "https://www.ft.com/content/69d86f8c-e18d-4a3e-99de-11c0c52a6699"
+  },
+  {
+    "id" : "41c25a0aa4cd4e8f",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "The Financial Times highlights Danish Prime Minister Mette Frederiksen's warning that US allies need a more hard-headed approach to security. The framing suggests European governments are reassessing defense dependence, supply resilience, and industrial readiness.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Danish PM warns US allies to stop being naive on security",
+    "url" : "https://www.ft.com/content/2deba2c9-7a97-4b18-91d9-e38bcf322220"
+  },
+  {
+    "id" : "fe30848327c4ce14",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "Saudi Arabia is using large-scale investment to push its role in global logistics. The story fits the kingdom's wider effort to diversify away from oil by building trade corridors, ports, warehousing, aviation capacity, and supply-chain services.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Saudi Arabia makes $2bn bet to become a global logistics hub",
+    "url" : "https://www.ft.com/content/246b461f-5bd6-4ea0-a2fe-0fca7280db35"
+  },
+  {
+    "id" : "bbd70f19c76d11a0",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "Financial Times public metadata points to warnings from credit insurers about deteriorating payment risk. The issue matters because trade credit is a quiet but important part of business financing, especially for smaller suppliers and cyclical sectors.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Credit insurers warn of rising corporate payment risks",
+    "url" : "https://www.ft.com/content/07ea5be8-c86f-493f-9790-5cb3602f6e95"
+  },
+  {
+    "id" : "38108b4940d1be1a",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian's business live coverage reports that key landlords have backed TG Jones's restructuring plan before a court ruling on the former WH Smith high street business. The retailer is seeking approval for a plan that could close up to 150 stores and avoid administration.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Key TG Jones landlords back restructuring plan ahead of court ruling on retailer's future",
+    "url" : "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates"
+  },
+  {
+    "id" : "53aa705040aca55e",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian's live coverage reports that the US goods trade deficit widened sharply in May to the highest monthly level in about a year. The visible update says exports fell while imports rose, including increased shipments of capital goods.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "US trade in goods deficit hits one-year high",
+    "url" : "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates"
+  },
+  {
+    "id" : "f361c03999e6b771",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that UK food and drink exports fell in the first quarter, with industry data pointing to weaker EU volumes and a sharp decline in exports to the United States. The visible story links the decline to Brexit-related trading friction and US tariff disruption.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "UK food and drink exports hit by US tariffs and Brexit trade friction",
+    "url" : "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates"
+  },
+  {
+    "id" : "b6235051c39c3f83",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that a US technology and AI sell-off shook markets across Wall Street and Asia. The visible story highlights weakness in the Nasdaq and S&P 500 and investor concern about concentration in AI-linked companies and chipmakers.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "US AI stock sell-off shakes markets from Wall Street to Asia",
+    "url" : "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
+  },
+  {
+    "id" : "8d6d32ae9246f3b0",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "Guardian business live coverage reports that Elon Musk's paper wealth fell after a drop in SpaceX shares. The visible metadata connects the move to a reassessment of space and AI-linked valuations after a steep post-IPO decline.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Musk loses trillionaire status as SpaceX shares come down to earth",
+    "url" : "https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates"
+  },
+  {
+    "id" : "415d07e27fe72ab4",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "The Wall Street Journal reports that a senior Justice Department antitrust official has signaled a preference for avoiding trials where possible. The visible article text frames this as an approach that could shape enforcement strategy against large companies.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Top DOJ official tells staff he wants to avoid antitrust trials",
+    "url" : "https://www.wsj.com/politics/policy/top-doj-official-tells-staff-he-wants-to-avoid-antitrust-trials-bc5a23ce"
+  },
+  {
+    "id" : "e5d0595fa639b579",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "The Wall Street Journal's visible homepage metadata highlights Ford's exposure to China's electric-vehicle price and product competition. The story points to a global auto industry in which Chinese manufacturers are setting a faster pace on cost, software, and model refreshes.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Ford saw China's EV war up close and knew it was in trouble",
+    "url" : "https://www.wsj.com/business/autos/ford-china-electric-vehicles-competition-4b57b632"
+  },
+  {
+    "id" : "4452e8481edc5aad",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "The Wall Street Journal's visible metadata points to investor and industry attention on the next demand phase for weight-loss drugs. The issue is whether prescription growth, insurance coverage, and manufacturing capacity continue to support premium valuations.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Weight-loss drugmakers face a post-holiday demand test",
+    "url" : "https://www.wsj.com/health/pharma/weight-loss-drugs-demand-novo-lilly-3e2d7a10"
+  },
+  {
+    "id" : "8b16086b6754e882",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "Wall Street Journal visible metadata highlights the growing role of chatbots in consumer decisions and information discovery. The business issue is whether AI assistants become a new gatekeeper between customers and brands.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "AI chatbots push new questions about trust and commerce",
+    "url" : "https://www.wsj.com/tech/ai/chatbots-commerce-privacy-consumer-trust-5f3a0a65"
+  },
+  {
+    "id" : "cbb90d8a83ec9c19",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "The Wall Street Journal's visible personal-finance coverage focuses on tax breaks available to homeowners. While consumer-facing, the story has business implications because tax policy influences housing affordability, renovation spending, and mortgage demand.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Homeowners face a shifting tax-break landscape",
+    "url" : "https://www.wsj.com/personal-finance/taxes/homeowner-tax-breaks-2026-7c6b1f8a"
+  },
+  {
+    "id" : "b184ff2e7d2c566e",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg Markets' visible public metadata reports a sharp equity sell-off tied to concern over tariffs and interest rates. The story frames risk appetite as vulnerable to both policy headlines and stretched valuations.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Stocks drop most since April as anxiety over tariffs and rates rises",
+    "url" : "https://www.bloomberg.com/news/articles/2026-05-21/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+    "id" : "fbd7e7a316955530",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg's visible market page highlights growing caution across Wall Street. The public metadata connects investor concern to tariffs, fiscal policy, and geopolitical risk rather than a single isolated catalyst.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Wall Street caution grows as tariff, fiscal, and geopolitical risks stack up",
+    "url" : "https://www.bloomberg.com/news/articles/2026-05-21/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+    "id" : "fb2afc126770a9f2",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg Markets' visible page presents technology weakness as a central part of the market move. The public framing indicates investor concern that AI-linked leaders have become too important to index performance.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Tech rout raises questions about AI-led market concentration",
+    "url" : "https://www.bloomberg.com/news/articles/2026-05-21/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+    "id" : "8552ebfff5c0a9a8",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg's visible metadata reports a weaker dollar after a senior Federal Reserve official signaled that rate cuts may be needed. Currency moves are an immediate channel through which rate expectations affect companies.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Dollar drops after Fed official says rate cuts may be needed",
+    "url" : "https://www.bloomberg.com/news/articles/2026-05-21/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+    "id" : "2b6aac6b61a07c1a",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Bloomberg",
+    "summary" : "Bloomberg Markets' visible public page includes a Capital One data-theft item. The key business issue is not only the bank's incident response but also the compliance and customer-trust burden around financial-data security.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Capital One says the FBI is investigating a data theft",
+    "url" : "https://www.bloomberg.com/news/articles/2026-05-21/stock-market-today-dow-s-p-live-updates"
+  },
+  {
+    "id" : "6442fcd46574f6de",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt's visible market coverage reports a sharp Dax decline after earlier relief over a Middle East ceasefire faded. The story points to renewed caution in European equities as investors reassess geopolitical, energy, and rates risk.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Dax falls sharply as Middle East ceasefire euphoria fades",
+    "url" : "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-startet-mit-kursgewinnen-siemens-energy-aktie-legt-kraeftig-zu/100006040.html"
+  },
+  {
+    "id" : "66ab318beefdab32",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that German financial regulator Bafin is examining Zalando's consolidated financial statements. The visible article metadata indicates a regulatory review focused on the online fashion retailer's accounting.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Bafin investigates Zalando's consolidated financial statements",
+    "url" : "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/zalando-finanzaufsicht-bafin-untersucht-konzernabschluss/100236001.html"
+  },
+  {
+    "id" : "fcd8bc3eedaff716",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that Volkswagen has found a route out of a long-running legal dispute linked to the diesel scandal. The visible public framing suggests progress in resolving litigation that has weighed on management attention and legal reserves.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Volkswagen finds a way out of a years-long legal dispute",
+    "url" : "https://www.handelsblatt.com/unternehmen/industrie/dieselskandal-volkswagen-findet-ausweg-aus-jahrelangem-rechtsstreit/100235228.html"
+  },
+  {
+    "id" : "c2c804cd0e174ae5",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt highlights Swiss private banks targeting Germany's wealthy Mittelstand customers. The visible metadata points to a competitive push beyond ultra-high-net-worth clients into entrepreneurs, family businesses, and affluent professionals.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Swiss private banks move into Germany's mass-affluent wealth market",
+    "url" : "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/vermoegen-schweizer-privatbanken-setzen-auf-den-reichen-mittelstand/100233438.html"
+  },
+  {
+    "id" : "a6e0525957f98770",
+    "publishedAt" : "2026-06-26T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that German districts are calling for more state spending. The visible story framing points to fiscal pressure at the local-government level as service obligations rise.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "German districts demand more state spending amid budget strain",
+    "url" : "https://www.handelsblatt.com/politik/deutschland/finanzierung-landkreise-fordern-mehr-staatliche-ausgaben/100235360.html"
+  },
+  {
+    "id" : "d9c5af20b822640f",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT's public metadata says Brent crude fell below the late-February level seen before the Iran conflict erupted, with Gulf flows improving enough to pull prices back toward prewar territory. The article body was behind the FT subscription wall, so this summary is based on the visible homepage headline, deck, and article metadata rather than subscriber text.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Oil price back at prewar levels as Gulf flows pick up",
+    "url" : "https://www.ft.com/content/7a05c821-491f-41a7-8d03-53183fbbb719"
+  },
+  {
+    "id" : "7d96eb718e27c7c8",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT reported through public metadata that Micron's bumper quarterly profit calmed investor fears after the week's sell-off and helped revive global technology shares. The visible deck framed the earnings beat as evidence that AI-related memory demand remains strong.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Global tech stocks rebound after Micron's profit surge",
+    "url" : "https://www.ft.com/content/b3ad976b-9967-4952-92ff-822a8e253fb1"
+  },
+  {
+    "id" : "888f6d7c1eebfbbc",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT's visible metadata says Merck plans to buy US medical-tools maker Bio-Techne for $11.3 billion, making it the German group's biggest acquisition in more than a decade. The deal is aimed at expanding Merck's position in research tools and analytical technologies.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "German drugmaker Merck to buy Bio-Techne in $11.3bn deal",
+    "url" : "https://www.ft.com/content/4d5030cb-a61e-4d15-a5b5-c4c7c6bca471"
+  },
+  {
+    "id" : "cde05a50ba99f687",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT's public metadata says easyJet rejected a GBP4.9 billion takeover offer from US private-credit group Castlelake but remains in talks. The visible homepage summary indicates the offer was submitted on Tuesday and turned down by the budget carrier.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "EasyJet in talks with Castlelake after rejecting GBP4.9bn takeover offer",
+    "url" : "https://www.ft.com/content/155406ff-e4fc-470a-abaa-d9526c5b3e59"
+  },
+  {
+    "id" : "cebe21ec04d38e1d",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT's public metadata says Meta is accelerating plans to use large language models to replace human moderators as part of a cost-cutting drive. The article body is behind the paywall, so this entry is based on the visible headline and deck.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Meta looks to AI to review harmful content in cost-cutting drive",
+    "url" : "https://www.ft.com/content/39251a31-4a9d-4870-b86c-dc6353d67fdd"
+  },
+  {
+    "id" : "c570a42e367f7a5f",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reported that oil prices had fallen to levels last seen before the Iran war as more tankers moved through the Strait of Hormuz. Its business page also linked the move to easing pressure in economic and financial markets.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Oil price falls to pre-Iran war levels as more tankers exit strait of Hormuz",
+    "url" : "https://www.theguardian.com/business/2026/jun/25/oil-price-falls-pre-iran-war-levels-more-tankers-exit-strait-of-hormuz"
+  },
+  {
+    "id" : "77b7b6c4732986ee",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reported that the UK plans to halve tariff-free steel imports in response to a glut of cheaper Chinese metal. The move is designed to shield domestic producers from import pressure at a time when global steel markets remain oversupplied.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "UK to halve tariff-free steel imports to counter glut of cheap Chinese metal",
+    "url" : "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal"
+  },
+  {
+    "id" : "9e5a6c92a3084120",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reported that easyJet opened talks with Castlelake after rejecting the US investor's GBP4.9 billion takeover offer. The story places the bid in the wider airline recovery and private-capital search for transport assets.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "EasyJet opens talks with Castlelake after rejecting GBP4.9bn takeover offer",
+    "url" : "https://www.theguardian.com/business/2026/jun/25/easyjet-opens-talks-with-castlelake-after-rejecting-4-9bn-takeover-offer"
+  },
+  {
+    "id" : "18498b6b06474425",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reported that Britain's grid operator paid GBP10 million for extra power to avoid a supply crunch during hot weather. The story links the payment to elevated demand and the operational cost of keeping the system balanced.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Great Britain's grid operator pays GBP10m for extra power to avoid supply crunch tonight",
+    "url" : "https://www.theguardian.com/business/2026/jun/24/heatwave-great-britain-grid-operator-extra-electricity-power-plants"
+  },
+  {
+    "id" : "86b1a60dfff9162a",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reported that a Deutsche Bahn IT maintenance failure brought Germany's railway network to a halt, stranding large numbers of passengers and affecting passenger and freight services. The article said the disruption was linked to a planned replacement of an ageing communications component rather than an initial suspected cyberattack.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Germany's railways grind to halt as IT maintenance snag takes down network",
+    "url" : "https://www.theguardian.com/world/2026/jun/24/germany-rail-network-deutsche-bahn-standstill-it-replacement"
+  },
+  {
+    "id" : "a8105db2facc9aa4",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ public metadata said US stock futures rose as Micron's results revived AI enthusiasm and oil returned toward prewar levels. The same metadata described stronger Nasdaq futures, gains for chip names, and broader global support for semiconductor-heavy markets.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Stock Futures Higher as Micron Revives AI Enthusiasm, Oil Hits Prewar Level",
+    "url" : "https://www.wsj.com/finance/stocks/stock-futures-higher-as-micron-revives-ai-enthusiasm-oil-hits-prewar-level-7d3f7bc0"
+  },
+  {
+    "id" : "d19617e3109c30ae",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ live-market metadata said Brent crude had continued to decline toward the prewar closing price seen before the US-Iran conflict. The visible metadata linked the move to improving conditions around the Strait of Hormuz and signs that oil traffic was normalising.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Oil Is Within Touching Distance of Prewar Prices",
+    "url" : "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-25-2026/card/oil-is-within-touching-distance-of-prewar-prices-tq0MMuIeSuJKndm3psHr"
+  },
+  {
+    "id" : "1224d0a920044ea3",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ metadata said Anthropic accused Alibaba of using fake accounts and millions of interactions to extract capabilities from Claude. The report described the alleged activity as a large distillation attack and connected it to concerns about US AI leadership and Chinese model development.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Anthropic Claims Alibaba Ran 'Brazen' Campaign to Access Its Claude AI Model",
+    "url" : "https://www.wsj.com/tech/ai/anthropic-claims-alibaba-ran-brazen-campaign-to-access-its-claude-ai-model-69d7a392"
+  },
+  {
+    "id" : "4265d12adb427a9e",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ reported through public metadata that President Trump clashed with Senate Republicans over the Iran war and his demand for voting-eligibility legislation before signing a bipartisan housing bill. The report said the housing measure had passed both chambers by wide margins but became entangled with the SAVE America Act.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Trump's Meeting With Senators Turns Fiery Over Iran War",
+    "url" : "https://www.wsj.com/politics/policy/trump-abruptly-cancels-signing-ceremony-for-bipartisan-housing-bill-c94f5ff1"
+  },
+  {
+    "id" : "6d0e631db2a3a90a",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ public metadata said Congress passed a major housing package with more than 50 provisions intended to ease development and affordability constraints. The report also noted builder scepticism because the bill includes no new federal funding and cannot directly override local zoning barriers.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "A Landmark Housing Bill Passed Congress. Home Builders Fear It Will Fizzle.",
+    "url" : "https://www.wsj.com/economy/housing/a-landmark-housing-bill-passed-congress-home-builders-fear-it-will-fizzle-fdce8b8e"
+  },
+  {
+    "id" : "99e5894fbef128b4",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times led with Frasers Property's proposed S$2.1 billion restructuring of its hospitality portfolio. The homepage also highlighted related analysis suggesting Valley Point could be a hidden gem in the asset-light proposal.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Frasers Property proposes S$2.1 billion restructuring of hospitality portfolio",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/frasers-property-proposes-s2-1-billion-restructuring-hospitality-portfolio?ref=home-grouped-story-1"
+  },
+  {
+    "id" : "e609ddb690a38f74",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reported that analysts see higher-for-longer US rates potentially supporting Singapore banks' earnings beyond 2026. The story frames global rates as a continuing driver of net interest income rather than a short-lived boost.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Higher-for-longer US rates could boost Singapore banks' earnings beyond 2026: analysts",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/higher-longer-us-rates-could-boost-singapore-banks-earnings-beyond-2026-analysts?ref=home-top-stories-3"
+  },
+  {
+    "id" : "e89bfaf0f3f50448",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reported that oil erased its wartime gains as more tankers transited the Strait of Hormuz. Its homepage metadata said shipowners appeared more confident about safe passage, with vessels moving through the chokepoint with satellite signals switched on.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Oil erases wartime gains as more tankers transit Hormuz",
+    "url" : "https://www.businesstimes.com.sg/international/global/oil-erases-wartime-gains-more-tankers-transit-hormuz?ref=home-top-stories-2"
+  },
+  {
+    "id" : "1f683fc89965cbf0",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reported that SingPost expects a sharp initial decline in low-value parcels to the EU as new customs duties take effect. The story points to trade-rule changes hitting cross-border e-commerce flows.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "SingPost expects huge dip in low-value parcels to EU initially as customs duty takes effect",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/transport-logistics/singpost-expects-huge-dip-low-value-parcels-eu-initially-customs-duty-takes-effect?ref=home-top-stories-8"
+  },
+  {
+    "id" : "3844100f466eac1b",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times highlighted Micron's share jump after an AI-driven sales forecast beat estimates. The story fits the day's broader market theme that AI infrastructure spending is still translating into hard revenue for chip suppliers.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Micron soars after sales forecast shatters estimates",
+    "url" : "https://www.businesstimes.com.sg/startups-tech/technology/micron-soars-after-ai-fuelled-sales-forecast-shatters-estimates?ref=home-skybox-3"
+  },
+  {
+    "id" : "6c08a863c9a1e65c",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt's homepage reported that Japan plans to promote industry with a roughly EUR2 trillion roadmap over 15 years. The visible metadata said the plan takes inspiration from Germany and the US and is ambitious as well as controversial.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Japan will mit zwei Billionen Euro die Industrie foerdern",
+    "url" : "https://www.handelsblatt.com/politik/international/japan-will-zwei-billionen-euro-in-die-industriebasis-investieren/100235414.html"
+  },
+  {
+    "id" : "5a4f5ed5f8e4d9d0",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reported that Merck will acquire Bio-Techne for $11.3 billion, or about EUR9.9 billion, paying $73 per share in cash. The article said Merck expects the acquisition to broaden research tools and analytics technologies and produce annual cost savings of about EUR140 million from the third year after closing.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Pharma: Merck staerkt Life-Science-Sparte mit US-Milliardenzukauf",
+    "url" : "https://www.handelsblatt.com/unternehmen/industrie/pharma-merck-staerkt-life-science-sparte-mit-us-milliardenzukauf/100235793.html"
+  },
+  {
+    "id" : "100cb038e188f61d",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reported that Volkswagen's Everllence marine-engine unit is being sold to Bain in a EUR7.4 billion transaction. The homepage metadata said the US investment firm won a contested auction process.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Volkswagen-Tochter Everllence wird an Finanzinvestor Bain verkauft",
+    "url" : "https://www.handelsblatt.com/unternehmen/industrie/volkswagen-tochter-everllence-wird-an-finanzinvestor-bain-verkauft/100235156.html"
+  },
+  {
+    "id" : "e5e1850a8d9f9ac9",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reported that Brussels wants stricter oversight of Amazon Web Services and Microsoft Azure because of Europe's heavy dependence on US cloud providers. The visible homepage metadata suggested tougher regulation could also create opportunities for another US competitor.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Cloud-Sektor: Bruessel will AWS und Microsoft Azure strenger ueberwachen",
+    "url" : "https://www.handelsblatt.com/politik/international/cloud-sektor-bruessel-will-aws-und-microsoft-azure-strenger-ueberwachen/100235703.html"
+  },
+  {
+    "id" : "c6181636a7f53261",
+    "publishedAt" : "2026-06-25T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reported that the AI boom gave Micron a strong outlook and lifted its shares. The homepage metadata said the company expects fourth-quarter revenue of about $50 billion, while investors are also watching announcements from its largest competitor.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Technologie: KI-Boom beschert Micron starken Ausblick - Aktie legt zu",
+    "url" : "https://www.handelsblatt.com/technik/it-internet/technologie-ki-boom-beschert-micron-starken-ausblickaktie-legt-zu/100235517.html"
+  },
+  {
+    "id" : "ec17008eb3421745",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "The FT reports from visible metadata that US defence secretary Pete Hegseth is forcing out the top US army officer in Europe. General CD Donahue is expected to announce his retirement on Wednesday, according to the public deck. The story points to personnel turnover at a sensitive moment for US commitments in Europe.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "US defence secretary Pete Hegseth forces out top army officer in Europe",
+    "url" : "https://www.ft.com/content/b2936511-6549-4a93-9c9f-b6dc3cd165a0"
+  },
+  {
+    "id" : "d1c16fa9389c6bd4",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT homepage metadata says Nvidia's banned AI chips have doubled in price on China's black market. The public deck says the US crackdown on illicit exports has made it riskier, harder, and more expensive to buy the processors. The piece highlights the gap between formal export controls and persistent demand for high-end compute.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Nvidia's banned AI chips double in price on China's black market",
+    "url" : "https://www.ft.com/content/57fcd3ce-464f-4dc2-8ea2-5712d4972c69"
+  },
+  {
+    "id" : "190451b3659b7db6",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "Qatar's prime minister told the FT that a US-Iran hotline is essential to safely reopen the Strait of Hormuz. The visible text says Qatar expects normal LNG production to resume within weeks and that the hotline is meant to verify threats to ships and reduce the risk of rogue disruption. The story frames diplomacy and operational communications as part of energy-market recovery.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Qatar says US-Iran hotline essential to reopen Strait of Hormuz",
+    "url" : "https://www.ft.com/content/e2d91812-1553-4d9e-a3cf-abe499de70b1"
+  },
+  {
+    "id" : "ac1239221472cae2",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT homepage metadata says the Hormuz closure has stranded almost 1,200 cargo ships carrying about $125 billion worth of goods. The visible headline indicates that the trade impact is broader than energy alone. It suggests a large backlog of vessels and cargo still needs to be unwound even as diplomatic talks progress.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Hormuz closure strands almost 1,200 cargo ships with $125bn worth of goods",
+    "url" : "https://www.ft.com/content/4d3dd2b7-cb6b-410b-8c15-203904f32294"
+  },
+  {
+    "id" : "81f1f1a7f1b1b34c",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "Financial Times",
+    "summary" : "FT public metadata says EU allies have joined a US pact designed to reduce reliance on Chinese AI supply chains. The deck says Jacob Helberg, architect of Pax Silica, told the FT the US-led group would boost innovation. The story shows AI supply chains becoming a formal geopolitical alliance issue.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "EU allies join US pact to break reliance on Chinese AI supply chains",
+    "url" : "https://www.ft.com/content/681c33a0-dcb4-4a82-9aa0-8a9172f7e5bc"
+  },
+  {
+    "id" : "5c232977368b62d6",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that US secretary of state Marco Rubio said no country, including Iran, would be allowed to charge tolls for passage through the Strait of Hormuz. The visit is aimed at reassuring UAE, Kuwait, and Bahrain over Gulf security and the US-Iran ceasefire. The article also notes continuing disagreements around nuclear inspections, Iranian funds, and the future security framework.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Rubio insists strait of Hormuz will be toll-free as he arrives for Gulf meeting",
+    "url" : "https://www.theguardian.com/world/2026/jun/23/marco-rubio-gulf-allies-us-iran-ceasefire-deal"
+  },
+  {
+    "id" : "2310a6b7762b1d4c",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that China's LineShine supercomputer in Shenzhen has topped the Top500 rankings, displacing the US El Capitan system. The article says LineShine uses CPUs rather than the GPUs commonly associated with AI workloads and requires roughly 42.2 megawatts of power. The milestone is presented as a sign of national technology capability amid US-China restrictions.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Chinese supercomputer leapfrogs best US machines to be ranked world's fastest",
+    "url" : "https://www.theguardian.com/technology/2026/jun/24/china-supercomputer-world-fastest-top500-ranking-lineshine"
+  },
+  {
+    "id" : "68334c73a510399",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian says a technology sell-off shook markets from Wall Street to Asia as investors questioned AI valuations and chipmaker momentum. The Nasdaq fell sharply, while Alphabet, SpaceX, SK Hynix, Samsung Electronics, and Japan's Nikkei were cited as part of the broader move. The story places the sell-off against a year of record highs driven by AI funding.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "US AI stock sell-off shakes markets from Wall Street to Asia",
+    "url" : "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets"
+  },
+  {
+    "id" : "64644574c91b7125",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that Lloyds Banking Group plans to hire 300 AI technology specialists by September. The hires will focus on agentic AI, fraud detection, internal document processing, and more personalized online banking. The article also notes that banks are investing quickly while regulators and risk advisers warn about testing and resilience gaps.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Lloyds Banking Group to hire 300 tech experts to work on AI",
+    "url" : "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts"
+  },
+  {
+    "id" : "304b134172773cec",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Guardian",
+    "summary" : "The Guardian reports that normal shipping through the Strait of Hormuz may not resume until around 80 mines blocking the main route are cleared. The story says some vessels have begun using alternative paths, but shipping groups warn that navigational risk, signal jamming, and vessel congestion remain serious. The backlog is expected to take time to clear even if the ceasefire holds.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Hormuz disruption will continue until 80 mines blocking route are cleared",
+    "url" : "https://www.theguardian.com/world/2026/jun/19/normal-shipping-will-not-resume-in-strait-of-hormuz-until-mines-cleared"
+  },
+  {
+    "id" : "599f13a445262ff2",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "Public WSJ metadata says a global technology sell-off intensified on Tuesday, with the Nasdaq Composite down 2.2%. Memory-chip names including Sandisk and Micron fell more than 13%, while investors worried about interest rates, valuations, and whether AI infrastructure spending can deliver enough profit. The article frames the move as a stress test after a powerful rally.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "The Stratospheric Rally Has Left Tech Stocks Vulnerable to Sharp Reversals",
+    "url" : "https://www.wsj.com/finance/stocks/the-stratospheric-rally-has-left-tech-stocks-vulnerable-to-sharp-reversals-14ef722d"
+  },
+  {
+    "id" : "c8de69ab8be78ddc",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ public metadata argues that energy equities may be overlooked while investors focus on turbulence in tech and chip stocks. The snippet says analysts project a large rise in free cash flow for US energy companies, including Exxon Mobil, Chevron, ConocoPhillips, Valero, and Marathon. The argument is that disrupted energy flows and depleted stockpiles may make energy infrastructure more strategically valuable.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Energy Stocks Could Be a Slick Trade",
+    "url" : "https://www.wsj.com/finance/stocks/energy-stocks-could-be-a-slick-trade-838b66b7"
+  },
+  {
+    "id" : "c28cab51147062c3",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ public metadata says the latest auto and transport roundup highlighted shifting airline ticket prices, lower fuel costs, and stable demand. The snippet also cites airline equity views, European airline caution, and automotive updates involving Autoliv, Renault, Continental, Geely Auto, Norwegian Air, Cebu Air, and Malaysia's auto sector. The piece shows transport demand still being shaped by fuel, booking windows, and regional consumer conditions.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Auto & Transport Roundup: Market Talk",
+    "url" : "https://www.wsj.com/business/auto-transport-roundup-market-talk-9c5b951d"
+  },
+  {
+    "id" : "52f18b28d6a55a39",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ public metadata says the national average 30-year fixed mortgage rate rose to 6.61%, while the 15-year fixed rate averaged 6.00%. The article ties elevated rates to inflation concerns, geopolitical uncertainty, and the Federal Reserve's decision to keep its policy rate steady. It also notes that many Fed officials now expect a rate increase before year-end.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Mortgage Rates Today, June 23, 2026: 30-Year Rates Climb to 6.61%",
+    "url" : "https://www.wsj.com/buyside/personal-finance/mortgage/mortgage-rates-today-6-23-2026"
+  },
+  {
+    "id" : "fdb7095571c1d067",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Wall Street Journal",
+    "summary" : "WSJ public metadata says the Federal Reserve held rates at 3.5% to 3.75%, but more officials now see a hike as the next move. The shift is linked to reaccelerating inflation, energy shocks from the Iran conflict, and demand tied to the AI boom. The article notes that bond yields rose and stocks sold off as investors adjusted to a more hawkish path.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Fed Holds Rates Steady, but More Officials See Higher Rates as Next Move",
+    "url" : "https://www.wsj.com/economy/central-banking/federal-reserve-interest-rate-decision-bd700510"
+  },
+  {
+    "id" : "1c3eba09032685f9",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that ByteDance is in preliminary talks with banks for an offshore loan of about US$20 billion. The visible article says the company is boosting AI investment and may raise capital while expanding data centres and infrastructure. It notes that ByteDance remains a major IPO candidate but has given few signs of rushing to list.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "ByteDance seeks US$20 billion in its largest-ever offshore loan",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/bytedance-seeks-us20-billion-its-largest-ever-offshore-loan"
+  },
+  {
+    "id" : "f74ef35ed65b266b",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times homepage says Japan's NTT is targeting a US$10 billion offering that would be the largest Asian corporate bond sale of 2026. The headline points to large-scale funding needs in telecoms and technology infrastructure. It also signals that Asian credit markets remain open for high-grade corporate issuers.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Japan's NTT targets US$10 billion offering in largest Asian corporate bond sale of 2026",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/japans-ntt-targets-us10-billion-offering-largest-asian-corporate-bond-sale-2026"
+  },
+  {
+    "id" : "116b6c4127bca8e5",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times homepage says AIP, backed by BlackRock and Temasek, is interested in Stack data centres. The public metadata provides only the headline, but it indicates continued investor competition for AI-linked infrastructure assets. Data centres remain a favored route for institutional capital seeking exposure to compute growth.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "AIP, backed by BlackRock and Temasek, said to be interested in Stack data centres",
+    "url" : "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/aip-backed-blackrock-and-temasek-said-be-interested-stack-data-centres"
+  },
+  {
+    "id" : "ef8c60cbf1c7bdfb",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times homepage says China's Premier Li downplayed fears of global trade disruption amid a surge in exports. The headline suggests Beijing is trying to reassure trading partners while strong outbound shipments raise concerns about imbalances. It also places China trade policy back at the center of global supply-chain debate.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "China's Premier Li downplays global trade disruption fears amid surge in exports",
+    "url" : "https://www.businesstimes.com.sg/international/global/chinas-premier-li-downplays-global-trade-disruption-fears-amid-surge-exports"
+  },
+  {
+    "id" : "8674e8bfe1c86162",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "The Business Times Singapore",
+    "summary" : "The Business Times reports that SpaceX fell for a third day and erased US$600 billion in market value. The visible deck says the company's market capitalization still sits just above US$2 trillion. The story sits within a broader reassessment of highly valued technology and space assets.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "SpaceX falls for third day, erases US$600 billion in market value",
+    "url" : "https://www.businesstimes.com.sg/international/global/spacex-falls-third-day-erases-us600-billion-market-value"
+  },
+  {
+    "id" : "649b6b67bb0d5213",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt lists SpaceX's market-value loss as its most-read story and frames the decline around five reasons for the space stock's market crisis. The homepage metadata says SpaceX has lost more than 600 billion dollars in market value. The story reflects German investor attention to US technology valuation risk.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "SpaceX verliert mehr als 600 Milliarden Dollar an Boersenwert - fuenf Gruende fuer die Boersenkrise",
+    "url" : "https://www.handelsblatt.com/finanzen/maerkte/aktien/spacex-fuenf-gruende-fuer-die-boersenkrise-der-weltraum-aktie/100235090.html"
+  },
+  {
+    "id" : "f74218bae7f0e604",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that the EU's new entry system is causing hours-long waits at airports. The visible homepage deck says airlines and non-EU passengers are struggling with the effects of the EES border-control system, with missed flights and baggage problems. The travel industry is sounding the alarm over operational disruption.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Tourismus: Das neue EU-Einreisesystem verursacht Chaos",
+    "url" : "https://www.handelsblatt.com/unternehmen/dienstleister/tourismus-das-neue-eu-einreisesystem-verursacht-chaos/100233143.html"
+  },
+  {
+    "id" : "7c4a212410daddf1",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt says investors experienced a \"cold shower\" across global stock markets, with the Nasdaq closing sharply lower. The homepage places the report in the finance section and ties it to broader market stress. This aligns with global concern over AI valuations and rate expectations.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Maerkte: Investoren erleben kalte Dusche an den weltweiten Boersen",
+    "url" : "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-investoren-erleben-kalte-dusche-an-den-weltweiten-boersen/100235241.html"
+  },
+  {
+    "id" : "7074490be733860b",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt features former AWS chief Adam Selipsky saying energy is now the major bottleneck. The piece appears in the technology section under artificial intelligence, indicating that compute growth is increasingly constrained by power availability. The headline connects AI expansion to grid and generation limits.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Adam Selipsky: Heute ist Energie der grosse Engpass",
+    "url" : "https://www.handelsblatt.com/technik/it-internet/adam-selipsky-heute-ist-energie-der-grosse-engpass/100233144.html"
+  },
+  {
+    "id" : "65901ca083bb28b5",
+    "publishedAt" : "2026-06-24T00:00:00Z",
+    "source" : "Handelsblatt",
+    "summary" : "Handelsblatt reports that Chinese state truckmaker FAW has successfully tested heavy trucks using sodium-ion battery technology. The visible deck says the test results could accelerate electrification of freight transport. Sodium-ion batteries may offer a lower-cost alternative for some commercial-vehicle applications.",
+    "tags" : [
+      "newspaper"
+    ],
+    "title" : "Natrium-Ionen-Akkus: Chinesischer Lkw-Riese meldet erfolgreiche Tests",
+    "url" : "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/natrium-ionen-akkus-chinesischer-lkw-riese-meldet-erfolgreiche-tests/100235207.html"
+  }
+]
