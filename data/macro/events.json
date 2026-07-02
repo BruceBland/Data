@@ -1,0 +1,209 @@
+[
+  {
+    "expectedImpact" : "The soft print leans CHF-negative and Swiss-equity supportive unless global risk aversion lifts haven demand. Low Swiss inflation preserves SNB policy optionality and reduces the need for a stronger franc to import disinflation. Actual annual CPI edged lower to 0.5% from 0.6% in April and May as energy-related prices cooled from May levels.",
+    "id" : "2026-07-02-swiss-cpi-actual",
+    "importance" : "medium",
+    "name" : "Switzerland CPI - actual release",
+    "region" : "Switzerland",
+    "startsAt" : "2026-07-02T06:30:00Z",
+    "tags" : [
+      "europe",
+      "june-2026",
+      "macro-events-json",
+      "switzerland"
+    ]
+  },
+  {
+    "expectedImpact" : "Strong payrolls and wages lift USD/yields and pressure rate-sensitive equities; moderate jobs with softer wages is risk-on; a sharp miss supports bonds but can hurt equities through recession risk. Payrolls are the week’s highest-risk event because the release lands before a U.S. holiday closure and can reset Fed pricing quickly. BLS schedules the release for 2 July at 08:30 ET. Market estimates cluster around roughly 100k-115k payroll growth and 4.3% unemployment after May payrolls rose 172k.",
+    "id" : "2026-07-02-us-employment-situation",
+    "importance" : "medium",
+    "name" : "U.S. Employment Situation",
+    "region" : "United States",
+    "startsAt" : "2026-07-02T12:30:00Z",
+    "tags" : [
+      "june-2026",
+      "macro-events-json",
+      "north-america",
+      "united-states"
+    ]
+  },
+  {
+    "expectedImpact" : "Rising claims after weak payrolls would be risk-off; stable claims and firm orders support cyclicals if yields stay contained, but early-close liquidity can exaggerate moves. The secondary data can confirm or complicate payrolls, while reduced pre-holiday depth lowers signal quality late in the session. Census schedules the full May manufacturers shipments, inventories and orders report for 10:00 ET on 2 July; claims will be read through the payrolls signal.",
+    "id" : "2026-07-02-us-claims-factory-orders-early-close",
+    "importance" : "high",
+    "name" : "U.S. claims, factory orders and pre-holiday early close",
+    "region" : "United States",
+    "startsAt" : "2026-07-02T14:00:00Z",
+    "tags" : [
+      "late-june-claims-/-may-2026-factory-data",
+      "macro-events-json",
+      "north-america",
+      "united-states"
+    ]
+  },
+  {
+    "expectedImpact" : "Strong services PMIs support local currencies and cyclicals; weak services or sticky price components create stagflation pressure. Services are more labour- and wage-sensitive than manufacturing and therefore more relevant to central-bank inflation persistence. Markets compare services demand, employment and output-price balances after manufacturing data showed uneven global activity.",
+    "id" : "2026-07-03-global-services-pmis",
+    "importance" : "high",
+    "name" : "Global final services and China services PMIs",
+    "region" : "Global",
+    "startsAt" : "2026-07-03T08:30:00Z",
+    "tags" : [
+      "global",
+      "june-2026",
+      "macro-events-json"
+    ]
+  },
+  {
+    "expectedImpact" : "Higher wage/price expectations support GBP and gilt yields but pressure domestics; softer expectations support gilts and rate-sensitive UK equities. The BoE is highly sensitive to wage and service-price persistence, so business expectations matter even outside an MPC week. Markets use the DMP to assess whether UK firms' wage and price expectations are consistent with future BoE easing.",
+    "id" : "2026-07-03-uk-decision-maker-panel",
+    "importance" : "medium",
+    "name" : "Bank of England Decision Maker Panel",
+    "region" : "United Kingdom",
+    "startsAt" : "2026-07-03T08:30:00Z",
+    "tags" : [
+      "europe",
+      "july-2026-publication",
+      "macro-events-json",
+      "united-kingdom"
+    ]
+  },
+  {
+    "expectedImpact" : "Thin liquidity can magnify futures, FX and non-U.S. equity moves after payrolls and before the weekend. Holidays reduce market depth and can turn otherwise normal data digestion into gap risk. U.S. stock and bond markets are closed on Friday 3 July because Independence Day falls on Saturday 4 July.",
+    "id" : "2026-07-03-us-independence-day-observed",
+    "importance" : "high",
+    "name" : "U.S. Independence Day observed market closure",
+    "region" : "United States",
+    "startsAt" : "2026-07-03T13:30:00Z",
+    "tags" : [
+      "3-july-2026",
+      "macro-events-json",
+      "north-america",
+      "united-states"
+    ]
+  },
+  {
+    "expectedImpact" : "Escalation supports havens, oil, gold and defence while pressuring equities, airlines and high-beta FX; calm headlines support risk appetite. Unscheduled risk can dominate after payrolls because markets have less cash-market depth to absorb new information. No scheduled macro data release; event risk is headline-driven and amplified by the U.S. holiday weekend.",
+    "id" : "2026-07-04-weekend-geopolitical-oil",
+    "importance" : "high",
+    "name" : "U.S. Independence Day weekend geopolitical, oil and tariff risk",
+    "region" : "Global",
+    "startsAt" : "2026-07-04T11:00:00Z",
+    "tags" : [
+      "4-july-2026",
+      "global",
+      "macro-events-json"
+    ]
+  },
+  {
+    "expectedImpact" : "Quiet headlines support a cleaner Asia and futures reopening; adverse oil or policy headlines support havens and pressure cyclicals. The first liquid response to accumulated weekend information often happens before Monday's U.S. cash session. Markets reopen futures after payrolls, a U.S. cash-market holiday and weekend geopolitical headlines.",
+    "id" : "2026-07-05-sunday-preopen-monitoring",
+    "importance" : "high",
+    "name" : "Sunday pre-open risk monitoring",
+    "region" : "Global",
+    "startsAt" : "2026-07-05T21:00:00Z",
+    "tags" : [
+      "5-july-2026",
+      "global",
+      "macro-events-json"
+    ]
+  },
+  {
+    "expectedImpact" : "Positioning can amplify the move from payrolls and ISM services, especially in rate-sensitive growth and small caps. Holiday closures often defer cash-market risk transfer into the next full session. Markets fully digest payrolls, weekend news and ISM services in the first normal U.S. cash session after the holiday.",
+    "id" : "2026-07-06-post-holiday-reopening",
+    "importance" : "high",
+    "name" : "U.S. post-holiday cash-market reopening",
+    "region" : "United States",
+    "startsAt" : "2026-07-06T13:30:00Z",
+    "tags" : [
+      "6-july-2026",
+      "macro-events-json",
+      "north-america",
+      "united-states"
+    ]
+  },
+  {
+    "expectedImpact" : "Firm activity with sticky prices supports USD and yields but pressures duration-sensitive equities; softer prices with resilient demand is risk-on. ISM services is the best high-frequency read on the largest part of the U.S. economy and will trade alongside delayed payrolls digestion. ISM states services PMI is released on the third business day at 10:00 ET; in July 2026 that falls on Monday 6 July after the July 3 market holiday.",
+    "id" : "2026-07-06-us-ism-services",
+    "importance" : "medium",
+    "name" : "U.S. ISM services",
+    "region" : "United States",
+    "startsAt" : "2026-07-06T14:00:00Z",
+    "tags" : [
+      "june-2026",
+      "macro-events-json",
+      "north-america",
+      "united-states"
+    ]
+  },
+  {
+    "expectedImpact" : "A wider deficit can weigh on GDP-tracker sentiment and import-sensitive sectors; a narrower deficit can support growth-quality narratives. Trade data matter more when tariffs, shipping and inventory cycles are active macro themes. Census schedules May U.S. international trade in goods and services for 7 July 2026 at 08:30 ET.",
+    "id" : "2026-07-07-us-international-trade",
+    "importance" : "medium",
+    "name" : "U.S. international trade in goods and services",
+    "region" : "United States",
+    "startsAt" : "2026-07-07T12:30:00Z",
+    "tags" : [
+      "macro-events-json",
+      "may-2026",
+      "north-america",
+      "united-states"
+    ]
+  },
+  {
+    "expectedImpact" : "Firm PMI supports CAD and TSX cyclicals if oil is stable; weak PMI reinforces growth concern and pressures banks/domestics. Canada is highly exposed to U.S. demand and energy, so a domestic activity signal matters most when it confirms those external drivers. Markets use Ivey PMI as a timely Canadian activity check after Canada Day liquidity and alongside oil/US data.",
+    "id" : "2026-07-07-canada-ivey-pmi",
+    "importance" : "medium",
+    "name" : "Canada Ivey PMI monitoring",
+    "region" : "Canada",
+    "startsAt" : "2026-07-07T14:00:00Z",
+    "tags" : [
+      "canada",
+      "june-2026",
+      "macro-events-json",
+      "north-america"
+    ]
+  },
+  {
+    "expectedImpact" : "Inventory overhang with soft sales is cyclicals-negative; healthier sales and leaner inventories support growth-quality narratives. Inventories matter when trade, tariffs and manufacturing orders are already part of the market narrative. Census schedules monthly wholesale trade for 8 July 2026 at 10:00 ET.",
+    "id" : "2026-07-08-us-wholesale-trade",
+    "importance" : "medium",
+    "name" : "U.S. wholesale trade",
+    "region" : "United States",
+    "startsAt" : "2026-07-08T14:00:00Z",
+    "tags" : [
+      "macro-events-json",
+      "may-2026",
+      "north-america",
+      "united-states"
+    ]
+  },
+  {
+    "expectedImpact" : "Large draws support oil, CAD/NOK and energy shares but pressure consumers and transport; builds do the reverse unless demand details are weak. Oil is the bridge between geopolitics, inflation expectations, consumer spending and sector rotation. Inventory direction matters because oil remains the main commodity channel into inflation expectations after Middle East volatility.",
+    "id" : "2026-07-08-eia-petroleum",
+    "importance" : "high",
+    "name" : "EIA weekly petroleum status report",
+    "region" : "United States",
+    "startsAt" : "2026-07-08T14:30:00Z",
+    "tags" : [
+      "commodities",
+      "macro-events-json",
+      "united-states",
+      "week-ending-early-july-2026"
+    ]
+  },
+  {
+    "expectedImpact" : "Hawkish minutes support USD and yields while pressuring Nasdaq, small caps and gold; balanced minutes reduce the rate-risk premium if payrolls/ISM are benign. The minutes can either validate or soften the market's post-payrolls interpretation of the Fed reaction function. The Fed states minutes are released three weeks after the policy decision; the June 17 decision implies a 8 July release. Markets expect scrutiny of inflation persistence and the new leadership's communication style.",
+    "id" : "2026-07-08-fomc-minutes",
+    "importance" : "medium",
+    "name" : "FOMC minutes from June 16-17 meeting",
+    "region" : "United States",
+    "startsAt" : "2026-07-08T18:00:00Z",
+    "tags" : [
+      "june-2026-fomc-meeting",
+      "macro-events-json",
+      "north-america",
+      "united-states"
+    ]
+  }
+]
